@@ -170,6 +170,8 @@
     ?>
   </div>
  
+
+  
   <div class="numeros">
     <?php
       function gerarNumerosUnicos($quantidade, $min = 1, $max = 60) {
